@@ -3,25 +3,23 @@
 ## Video 1 – Improving RAG Systems
 
 **YouTube:**  
-`PASTE-VIDEO-1-YOUTUBE-LINK-HERE`
+`https://youtu.be/SwE7CZL-Lkk`
 
 **LinkedIn:**  
-`PASTE-VIDEO-1-LINKEDIN-LINK-HERE`
+`https://www.linkedin.com/posts/patel-akash-51a395208_how-to-improve-rag-systems-chunking-retrieval-activity-7505757927228649472-SKjq?utm_source=share&utm_medium=member_desktop&rcm=ACoAADS84aYB4gqMkxKBoN4DtiRjbRRovxbcl-w`
 
 ## Video 2 – Building Safer and More Controlled Generative AI Applications
 
 **YouTube:**  
-`PASTE-VIDEO-2-YOUTUBE-LINK-HERE`
+`https://youtu.be/ti-Jy6uzVHw`
 
 **LinkedIn:**  
-`PASTE-VIDEO-2-LINKEDIN-LINK-HERE`
+`https://www.linkedin.com/posts/patel-akash-51a395208_building-safer-generative-ai-apps-with-amazon-activity-7505759479137714176-q0on?utm_source=share&utm_medium=member_desktop&rcm=ACoAADS84aYB4gqMkxKBoN4DtiRjbRRovxbcl-w`
 
 ## Video 3 – Preparing and Managing Data for Generative AI on AWS
 
 **YouTube:**  
-`PASTE-VIDEO-3-YOUTUBE-LINK-HERE`
+`https://youtu.be/lvIpTR-S8U8`
 
 **LinkedIn:**  
-`PASTE-VIDEO-3-LINKEDIN-LINK-HERE`
-
-I will replace these placeholders with the real links before final submission.
+`https://www.linkedin.com/posts/patel-akash-51a395208_preparing-data-for-generative-ai-on-aws-activity-7505760723806093313-K88h?utm_source=share&utm_medium=member_desktop&rcm=ACoAADS84aYB4gqMkxKBoN4DtiRjbRRovxbcl-w`
