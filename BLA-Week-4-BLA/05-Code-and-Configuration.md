@@ -69,7 +69,3 @@ Amazon S3
 → Amazon Bedrock
 → CloudWatch
 ```
-
-## AWS CLI Commands
-
-I will add AWS CLI commands here only if I actually use them during hands-on work.
