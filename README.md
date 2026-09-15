@@ -1,0 +1,1 @@
+# AWS-Certified-Generative-AI-Developer---Professional-BLAs
