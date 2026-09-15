@@ -77,5 +77,3 @@ Amazon Bedrock / Knowledge Base / ML Application
       ↓
 Amazon CloudWatch
 ```
-
-I will add real screenshots in the Screenshots folder when I capture the AWS work.
