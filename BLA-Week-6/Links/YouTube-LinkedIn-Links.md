@@ -5,27 +5,27 @@ I will update this file after publishing the Week 6 BLA videos and LinkedIn post
 ## Video 1 – Amazon OpenSearch: From Search Engine to GenAI Vector Store
 
 **YouTube:**  
-Add link here
+[https://youtu.be/im7M-a3RSeQ]
 
 **LinkedIn:**  
-Add link here
+[https://www.linkedin.com/posts/patel-akash-51a395208_aws-amazonopensearch-opensearch-share-7511532469884506113-Kwp_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADS84aYB4gqMkxKBoN4DtiRjbRRovxbcl-w]
 
 ---
 
 ## Video 2 – AWS Vector Storage Choices: S3 Vectors, Amazon Aurora, and DynamoDB
 
 **YouTube:**  
-Add link here
+[https://youtu.be/U7FDLt3lvaM]
 
 **LinkedIn:**  
-Add link here
+[https://www.linkedin.com/posts/patel-akash-51a395208_aws-generativeai-s3vectors-share-7511534326187048960-bppe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADS84aYB4gqMkxKBoN4DtiRjbRRovxbcl-w]
 
 ---
 
 ## Video 3 – Keeping GenAI Data Reliable: Vector Maintenance and Amazon S3 Storage & Security
 
 **YouTube:**  
-Add link here
+[https://youtu.be/XlrsLLccTfM]
 
 **LinkedIn:**  
-Add link here
+[https://www.linkedin.com/posts/patel-akash-51a395208_aws-generativeai-amazons3-share-7511538431785701378-bBzd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADS84aYB4gqMkxKBoN4DtiRjbRRovxbcl-w]
