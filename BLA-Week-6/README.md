@@ -77,15 +77,15 @@ The presentation files for all three videos are included in this Week 6 BLA fold
 
 ## YouTube Videos
 
-- Video 1: Link will be added
-- Video 2: Link will be added
-- Video 3: Link will be added
+- Video 1: [https://youtu.be/im7M-a3RSeQ]
+- Video 2: [https://youtu.be/U7FDLt3lvaM]
+- Video 3: [https://youtu.be/XlrsLLccTfM]
 
 ## LinkedIn Posts
 
-- Video 1: Link will be added
-- Video 2: Link will be added
-- Video 3: Link will be added
+- Video 1: [https://www.linkedin.com/posts/patel-akash-51a395208_aws-amazonopensearch-opensearch-share-7511532469884506113-Kwp_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADS84aYB4gqMkxKBoN4DtiRjbRRovxbcl-w]
+- Video 2: [https://www.linkedin.com/posts/patel-akash-51a395208_aws-generativeai-s3vectors-share-7511534326187048960-bppe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADS84aYB4gqMkxKBoN4DtiRjbRRovxbcl-w]
+- Video 3: [https://www.linkedin.com/posts/patel-akash-51a395208_aws-generativeai-amazons3-share-7511538431785701378-bBzd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADS84aYB4gqMkxKBoN4DtiRjbRRovxbcl-w]
 
 ## Course Information
 
