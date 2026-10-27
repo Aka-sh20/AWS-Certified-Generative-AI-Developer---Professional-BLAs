@@ -191,8 +191,6 @@ YouTube and LinkedIn links will be added in:
 
 `Links/Video-and-Social-Links.md`
 
-This keeps the GitHub repository connected with the explanation videos and social learning posts.
-
 ---
 
 ## Final Reflection
